@@ -12,9 +12,9 @@ function toggleMode() {
 
   //se tiver light mode adicionar a imagem light
   if (html.classList.contains("light")) {
-    img.setAttribute("src", "./assets/guii.jpg")
+    img.setAttribute("src", "./assets/Gui dia.jpg.png")
   } else {
-    img.setAttribute("src", "./assets/Gui 1.jpg")
+    img.setAttribute("src", "./assets/Gui noite.jpg.png")
   }
 
   //se tiver sem light mode deixar imagem que está

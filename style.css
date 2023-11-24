@@ -33,7 +33,7 @@ body * {
 
 #container {
   width: 100%;
-  max-width: 588px;
+  max-width: 540px;
   margin: 56px auto 0px;
   padding: 0 24px;
 }
@@ -165,7 +165,7 @@ footer {
   text-align: center;
 }
 
-@media (min-width: 700px) {
+@media (min-width: 340px) {
   :root {
     --bg-url: url(./assets/bg-desktop.jpg);
   }
