@@ -14,7 +14,7 @@ function toggleMode() {
   if (html.classList.contains("light")) {
     img.setAttribute("src", "./assets/guii.jpg")
   } else {
-    img.setAttribute("src", "./assets/Guiii.PNG")
+    img.setAttribute("src", "./assets/Gui 1.jpg")
   }
 
   //se tiver sem light mode deixar imagem que está
